@@ -7,3 +7,4 @@ int main()
   printf("Bytes: %d", sizeof(float));
   return 0;
 }
+// majedul islam
